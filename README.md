@@ -1,9 +1,9 @@
 # Laravel CRUD Generator
 
-[![Build Status](https://travis-ci.org/appzcoder/crud-generator.svg)](https://travis-ci.org/appzcoder/crud-generator.svg)
-[![Total Downloads](https://poser.pugx.org/appzcoder/crud-generator/d/total.svg)](https://packagist.org/packages/appzcoder/crud-generator)
-[![Latest Stable Version](https://poser.pugx.org/appzcoder/crud-generator/v/stable.svg)](https://packagist.org/packages/appzcoder/crud-generator)
-[![License](https://poser.pugx.org/appzcoder/crud-generator/license.svg)](https://packagist.org/packages/appzcoder/crud-generator)
+[![Build Status](https://travis-ci.org/feibris/crud-generator.svg)](https://travis-ci.org/feibris/crud-generator.svg)
+[![Total Downloads](https://poser.pugx.org/feibris/crud-generator/d/total.svg)](https://packagist.org/packages/feibris/crud-generator)
+[![Latest Stable Version](https://poser.pugx.org/feibris/crud-generator/v/stable.svg)](https://packagist.org/packages/feibris/crud-generator)
+[![License](https://poser.pugx.org/feibris/crud-generator/license.svg)](https://packagist.org/packages/feibris/crud-generator)
 
 This Generator package provides various generators like CRUD, API, Controller, Model, Migration, View for your painless development of your applications.
 
@@ -13,7 +13,7 @@ This Generator package provides various generators like CRUD, API, Controller, M
 
 ## Installation
 ```
-composer require appzcoder/crud-generator --dev
+composer require feibris/crud-generator --dev
 ```
 
 ## Documentation
@@ -23,7 +23,7 @@ Go through to the [detailed documentation](doc#readme)
 
 [![Screencast](http://img.youtube.com/vi/831-PFBsYfw/0.jpg)](https://www.youtube.com/watch?v=K2G3kMQtY5Y)
 
-#### If you're still looking for easier one then try this [Admin Panel](https://github.com/appzcoder/laravel-admin)
+#### If you're still looking for easier one then try this [Admin Panel](https://github.com/feibris/laravel-admin)
 
 ## Author
 

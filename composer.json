@@ -11,9 +11,9 @@
     ],
     "authors": [
         {
-            "name": "Sohel Amin",
-            "email": "sohelamincse@gmail.com",
-            "homepage": "http://www.appzcoder.com"
+            "name": "Fabricio Kikina",
+            "email": "feibris@gmail.com",
+            "homepage": "http://www.feibris.com"
         }
     ],
     "require": {
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Appzcoder\\CrudGenerator\\": "src/"
+            "Feibris\\CrudGenerator\\": "src/"
         },
         "classmap": [
             "tests"
@@ -37,7 +37,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Appzcoder\\CrudGenerator\\CrudGeneratorServiceProvider"
+                "Feibris\\CrudGenerator\\CrudGeneratorServiceProvider"
             ]
         }
     }
